@@ -1,4 +1,4 @@
-# SOUTH-CENTRAL-RAILWAY-TICKET-MANAGEMENT-SYSTEM-
+# south-central-railway-ticket-system
 🚆 South Central Railway – Train Ticket Booking System
 
 📌 About the Project
