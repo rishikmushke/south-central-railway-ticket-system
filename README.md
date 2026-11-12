@@ -53,6 +53,21 @@ Step 3: Run the Python file
 
 python main.py
 
+
+🔐 Demo Login Credentials
+
+The following credentials are available for testing the Agent Login functionality.
+
+S.No.| Username| Password
+1| rishik@123| rishik@123
+2| pooja@123| pooja@123
+3| lucky@123| lucky@123
+4| laddu@123| laddu@123
+5| rishitha@123| rishitha@123
+
+Note: These are demo credentials used for project testing and educational purposes only.
+
+
 🚀 Future Enhancements
 
 I plan to improve this project by adding:
